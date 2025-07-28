@@ -1,0 +1,14 @@
+C:\Users\simon\AdminLigas\bin\Debug\net9.0\AdminLigas.exe
+C:\Users\simon\AdminLigas\bin\Debug\net9.0\AdminLigas.deps.json
+C:\Users\simon\AdminLigas\bin\Debug\net9.0\AdminLigas.runtimeconfig.json
+C:\Users\simon\AdminLigas\bin\Debug\net9.0\AdminLigas.dll
+C:\Users\simon\AdminLigas\bin\Debug\net9.0\AdminLigas.pdb
+C:\Users\simon\AdminLigas\obj\Debug\net9.0\AdminLigas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\AdminLigas\obj\Debug\net9.0\AdminLigas.AssemblyInfoInputs.cache
+C:\Users\simon\AdminLigas\obj\Debug\net9.0\AdminLigas.AssemblyInfo.cs
+C:\Users\simon\AdminLigas\obj\Debug\net9.0\AdminLigas.csproj.CoreCompileInputs.cache
+C:\Users\simon\AdminLigas\obj\Debug\net9.0\AdminLigas.dll
+C:\Users\simon\AdminLigas\obj\Debug\net9.0\refint\AdminLigas.dll
+C:\Users\simon\AdminLigas\obj\Debug\net9.0\AdminLigas.pdb
+C:\Users\simon\AdminLigas\obj\Debug\net9.0\AdminLigas.genruntimeconfig.cache
+C:\Users\simon\AdminLigas\obj\Debug\net9.0\ref\AdminLigas.dll
